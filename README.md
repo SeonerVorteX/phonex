@@ -1,2 +1,1 @@
-# phonex
-PhoneX Discord Bot
+PhoneX botu eğlence amaçlı geliştirilmiş ekonomi botudur. Bir kaç bottan örnek ve ya ilham alınması dışında bot tamamen benim yaptığım bir altyapıya sahiptir. Hiç bir çalıntı komut yoktur. Botun komutlarına p!yardın komutunu kullanarak ulaşa bilirsiniz. Botla İlgili Her-hangi bir sorununuz, öneriniz ve ya şikayetiniz olursa p!öneri | p!şikayet komutlarından ve ya p!destek komutuyla botun Destek  kısmını kullanarak bize ulaşa bilirsiniz. Öneri ve şikayetleriniz botun gelişmesi ve daha iyi bir yapıya sahip olması için çok önemlidir. Hepinize İyi Eğlenceler.
