@@ -1,0 +1,2 @@
+# phonex
+PhoneX Discord Bot
